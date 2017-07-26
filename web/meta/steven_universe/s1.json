@@ -1,0 +1,370 @@
+{
+	"displayMode": "list",
+	"cover": "/images/steven_universe.png",
+	"content": [
+		{
+			"title": "S1E1: Gem Glow",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e01.mp4"
+		},
+		{
+			"title": "S1E2: Laser Light Cannon",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e02.mp4"
+		},
+		{
+			"title": "S1E3: Cheeseburger Backpack",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e03.mp4"
+		},
+		{
+			"title": "S1E4: Together Breakfast",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e04.mp4"
+		},
+		{
+			"title": "S1E5: Frybo",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e05.mp4"
+		},
+		{
+			"title": "S1E6: Cat Fingers",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e06.mp4"
+		},
+		{
+			"title": "S1E7: Bubble Buddies",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e07.mp4"
+		},
+		{
+			"title": "S1E8: Serious Steven",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e08.mp4"
+		},
+		{
+			"title": "S1E9: Tiger Millionaire",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e09.mp4"
+		},
+		{
+			"title": "S1E10: Steven's Lion",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e10.mp4"
+		},
+		{
+			"title": "S1E11: Arcade Mania",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e11.mp4"
+		},
+		{
+			"title": "S1E12: Giant Woman",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e12.mp4"
+		},
+		{
+			"title": "S1E13: So Many Birthdays",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e13.mp4"
+		},
+		{
+			"title": "S1E14: Lars and the Cool Kids",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e14.mp4"
+		},
+		{
+			"title": "S1E15: Onion Trade",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e15.mp4"
+		},
+		{
+			"title": "S1E16: Steven the Sword Fighter",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e16.mp4"
+		},
+		{
+			"title": "S1E17: Lion 2: The Movie",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e17.mp4"
+		},
+		{
+			"title": "S1E18: Beach Party",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e18.mp4"
+		},
+		{
+			"title": "S1E19: Rose's Room",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e19.mp4"
+		},
+		{
+			"title": "S1E20: Coach Steven",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e20.mp4"
+		},
+		{
+			"title": "S1E21: Joking Victim",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e21.mp4"
+		},
+		{
+			"title": "S1E22: Steven and the Stevens",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e22.mp4"
+		},
+		{
+			"title": "S1E23: Monster Buddies",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e23.mp4"
+		},
+		{
+			"title": "S1E24: An Indirect Kiss",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e24.mp4"
+		},
+		{
+			"title": "S1E25: Mirror Gem",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e25.mp4"
+		},
+		{
+			"title": "S1E26: Ocean Gem",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e26.mp4"
+		},
+		{
+			"title": "S1E27: House Guest",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e27.mp4"
+		},
+		{
+			"title": "S1E28: Space Race",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e28.mp4"
+		},
+		{
+			"title": "S1E29: Secret Team",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e29.mp4"
+		},
+		{
+			"title": "S1E30: Island Adventure",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e30.mp4"
+		},
+		{
+			"title": "S1E31: Keep Beach City Weird",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e31.mp4"
+		},
+		{
+			"title": "S1E32: Fusion Cuisine",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e32.mp4"
+		},
+		{
+			"title": "S1E33: Garnet's Universe",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e33.mp4"
+		},
+		{
+			"title": "S1E34:Watermelin Steven",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e34.mp4"
+		},
+		{
+			"title": "S1E35: Lion 3: Straight to Video",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e35.mp4"
+		},
+		{
+			"title": "S1E36: Warp Tour",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e36.mp4"
+		},
+		{
+			"title": "S1E37: Alone Together",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e37.mp4"
+		},
+		{
+			"title": "S1E38: The Test",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e38.mp4"
+		},
+		{
+			"title": "S1E39: Future Vision",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e39.mp4"
+		},
+		{
+			"title": "S1E40: On The Run",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e40.mp4"
+		},
+		{
+			"title": "S1E41: Horror Club",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e41.mp4"
+		},
+		{
+			"title": "S1E42: Winter Forecast",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e42.mp4"
+		},
+		{
+			"title": "S1E43: Maximum Capacity",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e43.mp4"
+		},
+		{
+			"title": "S1E44: Marble Madness",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e44.mp4"
+		},
+		{
+			"title": "S1E45: Rose's Scabbard",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e45.mp4"
+		},
+		{
+			"title": "S1E46: Open Book",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e46.mp4"
+		},
+		{
+			"title": "S1E47: Shirt Club",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e47.mp4"
+		},
+		{
+			"title": "S1E48: Story for Steven",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e48.mp4"
+		},
+		{
+			"title": "S1E49: The Message",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e49.mp4"
+		},
+		{
+			"title": "S1E50: Political Power",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e50.mp4"
+		},
+		{
+			"title": "S1E51: The Return",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e51.mp4"
+		},
+		{
+			"title": "S1E52: Jailbreak",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s1e52.mp4"
+		}
+	]
+}

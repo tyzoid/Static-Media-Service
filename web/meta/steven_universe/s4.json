@@ -1,0 +1,174 @@
+{
+	"displayMode": "list",
+	"cover": "/images/steven_universe.png",
+	"content": [
+		{
+			"title": "S4E1: Kindergarten Kid",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e01.mp4"
+		},
+		{
+			"title": "S4E2: Know Your Fusion",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e02.mp4"
+		},
+		{
+			"title": "S4E3: Buddy's Book",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e03.mp4"
+		},
+		{
+			"title": "S4E4: Mindful Education",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e04.mp4"
+		},
+		{
+			"title": "S4E5: Future Boy Zoltron",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e05.mp4"
+		},
+		{
+			"title": "S4E6: Last One out of Beach City",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e06.mp4"
+		},
+		{
+			"title": "S4E7: Onion Gang",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e07.mp4"
+		},
+		{
+			"title": "S4E8/9: Gem Harvest",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e08e09.mp4"
+		},
+		{
+			"title": "S4E10: Three Gems and a Baby",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e10.mp4"
+		},
+		{
+			"title": "S4E11: Steven's Dream",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e11.mp4"
+		},
+		{
+			"title": "S4E12: Adventures in Light Distortion",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e12.mp4"
+		},
+		{
+			"title": "S4E13: Gem Heist",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e13.mp4"
+		},
+		{
+			"title": "S4E14: The Zoo",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e14.mp4"
+		},
+		{
+			"title": "S4E15: That Will Be All",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e15.mp4"
+		},
+		{
+			"title": "S4E16: The New Crystal Gems",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e16.mp4"
+		},
+		{
+			"title": "S4E17: Storm in the Room",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e17.mp4"
+		},
+		{
+			"title": "S4E18: Rocknaldo",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e18.mp4"
+		},
+		{
+			"title": "S4E19: Tiger Philanthropist",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e19.mp4"
+		},
+		{
+			"title": "S4E20: Room For Ruby",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e20.mp4"
+		},
+		{
+			"title": "S4E21: Lion 4: Alternate Ending",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e21.mp4"
+		},
+		{
+			"title": "S4E22: Doug Out",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e22.mp4"
+		},
+		{
+			"title": "S4E23: The Good Lars",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e23.mp4"
+		},
+		{
+			"title": "S4E24: Are You My Dad?",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e24.mp4"
+		},
+		{
+			"title": "S4E25: I Am My Mom",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s4e25.mp4"
+		}
+	]
+}

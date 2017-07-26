@@ -1,0 +1,181 @@
+{
+	"displayMode": "list",
+	"cover": "/images/steven_universe.png",
+	"content": [
+		{
+			"title": "S2E1: Full Disclosure",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e01.mp4"
+		},
+		{
+			"title": "S2E2: Joy Ride",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e02.mp4"
+		},
+		{
+			"title": "S2E3: Say Uncle",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e03.mp4"
+		},
+		{
+			"title": "S2E4: Love Letters",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e04.mp4"
+		},
+		{
+			"title": "S2E5: Reformed",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e05.mp4"
+		},
+		{
+			"title": "S2E6: Sworn to the Sword",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e06.mp4"
+		},
+		{
+			"title": "S2E7: Rising Tides, Crashing Skies",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e07.mp4"
+		},
+		{
+			"title": "S2E8: Keeping it Together",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e08.mp4"
+		},
+		{
+			"title": "S2E9: We Need to Talk",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e09.mp4"
+		},
+		{
+			"title": "S2E10: Chille Tid",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e10.mp4"
+		},
+		{
+			"title": "S2E11: Cry for Help",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e11.mp4"
+		},
+		{
+			"title": "S2E12: Keystone Motel",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e12.mp4"
+		},
+		{
+			"title": "S2E13: Onion Friend",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e13.mp4"
+		},
+		{
+			"title": "S2E14: Historical Friction",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e14.mp4"
+		},
+		{
+			"title": "S2E15: Friend Ship",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e15.mp4"
+		},
+		{
+			"title": "S2E16: Nightmare Hospital",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e16.mp4"
+		},
+		{
+			"title": "S2E17: Sadie's Song",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e17.mp4"
+		},
+		{
+			"title": "S2E18: Catch and Release",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e18.mp4"
+		},
+		{
+			"title": "S2E19: When it Rains",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e19.mp4"
+		},
+		{
+			"title": "S2E20: Back to the Barn",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e20.mp4"
+		},
+		{
+			"title": "S2E21: Too Far",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e21.mp4"
+		},
+		{
+			"title": "S2E22: The Answer",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e22.mp4"
+		},
+		{
+			"title": "S2E23: Steven's Birthday",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e23.mp4"
+		},
+		{
+			"title": "S2E24: It Could've Been Great",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e24.mp4"
+		},
+		{
+			"title": "S2E25: Message Received",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s2e25.mp4"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"displayMode": "list",
+	"cover": "/images/steven_universe.png",
+	"content": [
+		{
+			"title": "Season 1",
+			"thumb": "/images/steven_universe_s1.jpg",
+			"type": "tv",
+			"mediaType": "list",
+			"media": "/meta/steven_universe/s1.json"
+		},
+		{
+			"title": "Season 2",
+			"thumb": "/images/steven_universe_s2.jpg",
+			"type": "tv",
+			"type": "tv",
+			"mediaType": "list",
+			"media": "/meta/steven_universe/s2.json"
+		},
+		{
+			"title": "Season 3",
+			"thumb": "/images/steven_universe_s3.jpg",
+			"type": "tv",
+			"type": "tv",
+			"mediaType": "list",
+			"media": "/meta/steven_universe/s3.json"
+		},
+		{
+			"title": "Season 4",
+			"thumb": "/images/steven_universe_s4.png",
+			"type": "tv",
+			"type": "tv",
+			"mediaType": "list",
+			"media": "/meta/steven_universe/s4.json"
+		},
+		{
+			"title": "Season 5",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"type": "tv",
+			"mediaType": "list",
+			"media": "/meta/steven_universe/s5.json"
+		}
+	]
+}

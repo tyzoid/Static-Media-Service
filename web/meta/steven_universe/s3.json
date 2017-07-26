@@ -1,0 +1,188 @@
+{
+	"displayMode": "list",
+	"cover": "/images/steven_universe.png",
+	"content": [
+		{
+			"title": "S3E1: Log Date 7 15 2",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e01.mp4"
+		},
+		{
+			"title": "S3E2: Super Watermelon Island",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e02.mp4"
+		},
+		{
+			"title": "S3E3: Gem Drill",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e03.mp4"
+		},
+		{
+			"title": "S3E4: Same Old World",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e04.mp4"
+		},
+		{
+			"title": "S3E5: Barn Mates",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e05.mp4"
+		},
+		{
+			"title": "S3E6: Hit the Diamond",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e06.mp4"
+		},
+		{
+			"title": "S3E7: Steven Floats",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e07.mp4"
+		},
+		{
+			"title": "S3E8: Drop Beat Dad",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e08.mp4"
+		},
+		{
+			"title": "S3E9: Mr. Greg",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e09.mp4"
+		},
+		{
+			"title": "S3E10: Too Short To Ride",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e10.mp4"
+		},
+		{
+			"title": "S3E11: The New Lars",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e11.mp4"
+		},
+		{
+			"title": "S3E12: Beach City Drift",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e12.mp4"
+		},
+		{
+			"title": "S3E13: Restaurant Wars",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e13.mp4"
+		},
+		{
+			"title": "S3E14: Kiki's Pizza Delivery Service",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e14.mp4"
+		},
+		{
+			"title": "S3E15: Monster Reunion",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e15.mp4"
+		},
+		{
+			"title": "S3E16: Alone at Sea",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e16.mp4"
+		},
+		{
+			"title": "S3E17: Greg the Babysitter",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e17.mp4"
+		},
+		{
+			"title": "S3E18: Gem Hunt",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e18.mp4"
+		},
+		{
+			"title": "S3E19: Crack the Whip",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e19.mp4"
+		},
+		{
+			"title": "S3E20: Steven vs. Amethyst",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e20.mp4"
+		},
+		{
+			"title": "S3E21: Bismuth (Part 1)",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e21.mp4"
+		},
+		{
+			"title": "S3E22: Bismuth (Part 2)",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e22.mp4"
+		},
+		{
+			"title": "S3E23: Beta",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e23.mp4"
+		},
+		{
+			"title": "S3E24: Earthlings",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e24.mp4"
+		},
+		{
+			"title": "S3E25: Back to the Moon",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e25.mp4"
+		},
+		{
+			"title": "S3E26: Bubbled",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s3e26.mp4"
+		}
+	]
+}

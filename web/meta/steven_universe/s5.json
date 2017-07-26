@@ -1,0 +1,34 @@
+{
+	"displayMode": "list",
+	"cover": "/images/steven_universe.png",
+	"content": [
+		{
+			"title": "S5E1: Stuck Together",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s5e01.mp4"
+		},
+		{
+			"title": "S5E2: The Trial",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s5e02.mp4"
+		},
+		{
+			"title": "S5E3: Off Colors",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s5e03.mp4"
+		},
+		{
+			"title": "S5E4: Lars' Head",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "file",
+			"media": "/tv/steven_universe/s5e04.mp4"
+		}
+	]
+}

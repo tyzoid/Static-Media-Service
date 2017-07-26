@@ -1,0 +1,19 @@
+{
+	"displayMode": "cards",
+	"content": [
+		{
+			"title": "Jurassic World",
+			"thumb": "/images/jurassic_world.jpg",
+			"type": "movie",
+			"mediaType": "file",
+			"media": "/movies/jurassic_world.mp4"
+		},
+		{
+			"title": "Steven Universe",
+			"thumb": "/images/steven_universe.jpg",
+			"type": "tv",
+			"mediaType": "list",
+			"media": "/meta/steven_universe.json"
+		}
+	]
+}
